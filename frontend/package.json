@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/lagunsh/wasleland-police.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/lagunsh/wasleland-police/issues"
+  },
+  "homepage": "https://gitlab.com/lagunsh/wasleland-police#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
